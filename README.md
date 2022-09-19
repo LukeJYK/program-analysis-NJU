@@ -5,3 +5,5 @@ Also, you can find something intersting from my personal website.
 
 课程可见：
 Introduction: https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.788&vd_source=da72f604a9d8059e61c8538e32f8e410
+
+Notes are available on: https://lukejyk.github.io/notes/program_analysis
